@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -9,8 +11,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ffffff;
+    --foreground: #171717;
+    --custom-gray: #cbcbcb;
+    --dark-black: #000000;
+    --light-pink: #fff2f2;
+    --light-dark: #2f323c;
   }
 }
 

@@ -1,5 +1,5 @@
 "use client";
-import { Pagination, Scrollbar, A11y, Autoplay } from "swiper/modules";
+import { Pagination, A11y, Autoplay } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
@@ -34,7 +34,7 @@ const CarouselSection = () => {
 
             <div className="mx-auto w-[728px] h-[122px] font-poppins font-normal text-[28px] leading-[36px] tracking-[-0.02em] text-[#3B3E48]">
               With access to our capital, distribution channels, and talent,
-              you're empowered to take your brand to new heights.
+              you&lsquo;re empowered to take your brand to new heights.
             </div>
           </div>
         </section>
@@ -70,7 +70,8 @@ const CarouselSection = () => {
 
             <div className="mx-auto w-[728px] h-[122px] font-poppins font-normal text-[28px] leading-[36px] tracking-[-0.02em] text-[#3B3E48]">
               Drive sustainable growth by collaborating with us from the ground
-              up. Together, we'll transform your business into a legacy brand.
+              up. Together, we&lsquo;ll transform your business into a legacy
+              brand.
             </div>
           </div>
         </section>

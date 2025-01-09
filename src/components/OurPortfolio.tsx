@@ -34,8 +34,8 @@ const OurPortfolio = () => {
               Baby AND <br /> TODDLER
             </div>
             <p className="mt-2 font-poppins font-normal text-[28px] leading-[36px] tracking-[-0.02em] text-[#3B3E48]">
-              We'll extend your reach on e-commerce platforms, capturing new
-              audiences and increasing sales.
+              We&apos;ll extend your reach on e-commerce platforms, capturing
+              new audiences and increasing sales.
             </p>
           </div>
 
@@ -54,8 +54,8 @@ const OurPortfolio = () => {
               Pets
             </div>
             <p className="mt-2 font-poppins font-normal text-[28px] leading-[36px] tracking-[-0.02em] text-[#3B3E48]">
-              We'll extend your reach on e-commerce platforms, capturing new
-              audiences and increasing sales.
+              We&lsquo;ll extend your reach on e-commerce platforms, capturing
+              new audiences and increasing sales.
             </p>
           </div>
 

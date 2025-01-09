@@ -63,7 +63,7 @@ const HowWeDoItSection = () => {
               </h2>
               <p className="text-gray-600 mt-[30px]">
                 By leveraging our operational insights and your industry
-                expertise, we'll build a world-class team that achieves
+                expertise, we&lsquo;ll build a world-class team that achieves
                 excellent results.
               </p>
             </div>

@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const WhyMonolith = () => {
   return (
     <section className="bg-light-dark text-black py-20 text-center relative">
@@ -9,14 +7,14 @@ const WhyMonolith = () => {
         </div>
 
         <div className="mx-auto w-[802px] h-[170px] font-poppins font-bold text-[70px] leading-[80px] tracking-[-0.02em] text-[#FFFFFF]">
-          Building a legacy with your brand's magic
+          Building a legacy with your brand&apos;s magic
         </div>
 
         <div className="mx-auto w-[728px] h-[122px] font-poppins font-normal text-[28px] leading-[36px] tracking-[-0.02em] text-[#FFFFFF]">
-          You've created a unique brand with products people love. Now it's time
-          to build that brand love with even more customers. Our omni-channel,
-          data-driven approach will accelerate your business growth. And you'll
-          be invovled every step of the way.
+          You&apos;ve created a unique brand with products people love. Now
+          it&apos;s time to build that brand love with even more customers. Our
+          omni-channel, data-driven approach will accelerate your business
+          growth. And you&apos;ll be invovled every step of the way.
         </div>
       </div>
     </section>
